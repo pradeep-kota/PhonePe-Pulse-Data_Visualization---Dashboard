@@ -1,6 +1,12 @@
 # PhonePe-Pulse-Data_Visualization---Dashboard
 This dashboard displays  PhonePe Transaction and User data in interactive way
 
+Find the geojson files of indian states the visit this link https://un-mapped.carto.com/tables/states_india/public/map 
+px.choropleth is a good option to visualize those states https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth.html 
+Icon image link https://pasteboard.co/IQZdGbjqTkwH.jpg 
+Home Image link https://pasteboard.co/dvQUm1MIhJNL.jpg
+
+
 ![img](https://user-images.githubusercontent.com/121713702/226621611-58ea743a-9f9d-43cd-880f-39e0f4e45b9c.png)
 
 # Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
